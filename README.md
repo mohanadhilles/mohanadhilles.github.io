@@ -4,7 +4,7 @@
 
 **🎓 Senior Software Engineer | API Integration Specialist | Agile Practitioner**
 
-I am a seasoned software engineer with a Master's degree in Computer Systems and over 9 years of professional experience. My expertise bridges both back-end and front-end development, with deep proficiency in PHP, Laravel, MySQL, and RESTful APIs. I excel in integrating complex systems, ensuring robust authentication and authorization, and producing highly documented APIs.
+I am a dedicated Software Engineer with over 7 years of experience in developing and maintaining complex web applications, database systems, and API integrations. Throughout my career at WalaPlus and previous roles, I’ve consistently delivered high-quality, scalable solutions while collaborating across teams and managing production environments. My performance evaluations reflect my commitment to excellence, with top scores in Transparency (100%), Focus (100%), and Expertise (94.2%), demonstrating my reliability, technical strength, and drive for continuous growth.
 
 ---
 
