@@ -4,7 +4,7 @@
 
 **🎓 Senior Software Engineer | API Integration Specialist | Agile Practitioner**
 
-Senior Backend Developer with 7+ years of experience building scalable, secure systems in loyalty, e-wallet, voucher, and B2B API domains.
+Senior Software Engineer with 7+ years of experience building scalable, secure systems in loyalty, e-wallet, voucher, and B2B API domains.
 Skilled in designing multi-tenant platforms, API-first architectures, and integrating with complex external services.
 Passionate about clean code, system design, and delivering high-impact backend solutions — open to remote opportunities.
 
