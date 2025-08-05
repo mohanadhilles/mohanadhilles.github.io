@@ -4,7 +4,9 @@
 
 **🎓 Senior Software Engineer | API Integration Specialist | Agile Practitioner**
 
-I am a dedicated Software Engineer with over **+7 years** of experience in developing and maintaining complex web applications, database systems, and API integrations. Throughout my career at WalaPlus and previous roles, I’ve consistently delivered high-quality, scalable solutions while collaborating across teams and managing production environments. My performance evaluations reflect my commitment to excellence, with top scores in Transparency (100%), Focus (100%), and Expertise (94.2%), demonstrating my reliability, technical strength, and drive for continuous growth.
+Senior Backend Developer with 7+ years of experience building scalable, secure systems in loyalty, e-wallet, voucher, and B2B API domains.
+Skilled in designing multi-tenant platforms, API-first architectures, and integrating with complex external services.
+Passionate about clean code, system design, and delivering high-impact backend solutions — open to remote opportunities.
 
 ---
 
