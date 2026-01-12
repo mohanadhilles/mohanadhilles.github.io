@@ -40,7 +40,7 @@ Passionate about clean code, system design, and delivering high-impact backend s
 ---
 
 ### 📈 GitHub Statistics
-![Mohanad's GitHub Stats](https://metrics.lecoq.io/mohanadhilles)
+![Mohanad's GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=mohanadhilles&theme=redical)
 ![Top Languages](https://github-readme-activity-graph.vercel.app/graph?username=mohanadhilles&theme=redical)
 
 ---
