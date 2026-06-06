@@ -1,79 +1,182 @@
 ## Hi there 👋
 
-# I'm Mohanad Hilles ![Profile Views](https://komarev.com/ghpvc/?username=mohanadhilles&color=blueviolet)
+<div align="center">
 
-**🎓 Senior Software Engineer | API Integration Specialist | Agile Practitioner**
+<!-- ====================== HEADER ====================== -->
 
-Senior Software Engineer with 7+ years of experience building scalable, secure systems in loyalty, e-wallet, voucher, and B2B API domains.
-Skilled in designing multi-tenant platforms, API-first architectures, and integrating with complex external services.
-Comfortable across the stack — from PHP/Laravel services to Go (Gin) microservices, backed by MySQL, PostgreSQL, Redis, and Docker.
-Passionate about clean code, system design, and delivering high-impact backend solutions — open to remote opportunities.
+# ✦ &nbsp; Mohanad Hilles &nbsp; ✦
 
----
+**`Senior Software Engineer`** &nbsp;•&nbsp; **`Backend & API Integration`** &nbsp;•&nbsp; **`System Design`**
 
-### 🎯 Core Expertise
-- 🖥️ **Back-End Engineering:** PHP, Laravel, Go (Gin framework)
-- 🗄️ **Databases & Caching:** MySQL, PostgreSQL, Redis
-- 🔗 **API Integration:** RESTful APIs, Postman, Authentication & Authorization
-- 🎨 **Front-End Development:** Vue.js, Bootstrap
-- 🛠️ **Version Control Systems:** Git, Bitbucket, GitHub
-- 📈 **Project Management:** Jira, Kanban, Agile methodologies
-- 🚀 **DevOps & Tools:** Docker, Continuous Integration, Agile & Scrum practices
+<br/>
 
----
+![Experience](https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-0A66C2?style=for-the-badge)
+![Domain](https://img.shields.io/badge/DOMAIN-FINTECH%20%26%20LOYALTY-1B1F23?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20REMOTE-2E7D32?style=for-the-badge)
 
-### 🛠️ Technical Proficiency
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<a href="https://www.linkedin.com/in/mohanadhilles/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muhilles@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mohanadhilles"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
+</div>
 
-### 🌍 Global Impact & Achievements
-- 🎓 **Master’s Degree in Computer Systems** – Specialized in distributed systems and cloud computing.
-- 🌟 Led cross-functional teams to deliver complex projects using Agile and DevOps practices.
-- 🔐 Developed and integrated secure APIs for international clients, ensuring compliance with global standards.
-- 💻 Contributed to open-source projects, driving community engagement and collaboration.
+<br/>
 
----
+> Building **scalable, secure backend systems** and integrating them with complex external services —
+> from **PHP / Laravel** APIs to **Go (Gin)** microservices, backed by **MySQL · PostgreSQL · Redis · Docker**.
 
-### 📂 Repositories by Language & Tool
-A quick map of the languages and tools I work with and the repositories where I put them to use.
+<br/>
 
-| Language / Tool | Repository | What it shows |
-| --- | --- | --- |
-| 🐘 **PHP / Laravel** | [hMac-services](https://github.com/mohanadhilles/hMac-services) | RESTful APIs with HMAC-based authentication & authorization |
-| 🐳 **Docker** | [docker](https://github.com/mohanadhilles/docker) | Containerized Vue.js + Laravel app, ready for multi-env deployment |
-| 🎨 **Vue.js** | [docker](https://github.com/mohanadhilles/docker) | Vue.js front-end integrated with a Laravel back-end |
-| 🐹 **Go** | [go/gin framework and postgreSql](https://github.com/mohanadhilles/feed) | A RESTful social feed API built with Go, Gin, PostgreSQL, and GORM. Supports passwordless authentication via OTP email, posts, and comments. |
-| ⚙️ **Gin (Go framework)** | [go/gin framework, Docker and postgreSql](https://github.com/mohanadhilles/feed) | A RESTful social feed API built with Go, Gin, PostgreSQL, and GORM. Supports passwordless authentication via OTP email, posts, and comments. |
-| 🧠 **Redis** | [Node, Redis, Mysql, Docker](https://github.com/mohanadhilles/fintech-api) | FINTECH API Wallet transfers money |
-| 🐬 **MySQL** | [Node Redis and Mysql](https://github.com/mohanadhilles/fintech-api) | FINTECH API Wallet transfers money |
-| 🐘 **PostgreSQL** | [Node Redis and Mysql](https://github.com/mohanadhilles/feed) | A RESTful social feed API built with Go, Gin, PostgreSQL, and GORM. Supports passwordless authentication via OTP email, posts, and comments. |
+## &nbsp;◢ &nbsp;About
 
+I'm a Senior Software Engineer with **7+ years of experience** designing **multi-tenant platforms** and **API-first architectures** across fintech, e-wallet, loyalty, voucher, and B2B API domains. I currently work as a Senior Software Engineer at **WalaPlus**, where I build large-scale system integrations. I care about clean code, sound design, and software that holds up in production.
 
----
+<div align="center">
 
-### 🚀 Key Projects
-- **[API Authentication Suite](https://github.com/mohanadhilles/hMac-services):** Developed a comprehensive suite of RESTful APIs with advanced authentication and authorization mechanisms, ensuring secure data exchange for global applications.
-- **[Vue.js, Laravel & Docker Integration](https://github.com/mohanadhilles/docker):** Built a scalable, containerized application with seamless integration between Vue.js, Laravel, and Docker, optimized for deployment across various environments.
+`Backend Engineering` &nbsp; `RESTful APIs` &nbsp; `Microservices` &nbsp; `Authentication & Authorization` &nbsp; `Containerization` &nbsp; `Agile / Scrum`
 
----
+</div>
 
-### 📈 GitHub Statistics
-![Mohanad's GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=mohanadhilles&theme=redical)
+<br/>
 
----
+## &nbsp;◢ &nbsp;Tech Stack
 
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-muhilles@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhilles@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohanad%20Hilles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanadhilles/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohanad%20Hilles-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanadhilles)
+<table width="100%">
+  <tr>
+    <td width="28%"><b>⚙️ &nbsp;Languages & Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,js,vue,bootstrap&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td><b>🗄️ &nbsp;Data & Infrastructure</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td><b>🛠️ &nbsp;Tools & Workflow</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman&theme=dark"/></td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📚 Lifelong Learning
-As a continuous learner, I am committed to staying at the forefront of technology trends. I actively pursue certifications, attend conferences, and engage with the global developer community to enhance my skills and contribute to innovative projects.
+## &nbsp;◢ &nbsp;Featured Projects
 
----
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-Feel free to explore my repositories, and reach out if you'd like to collaborate or discuss anything tech-related.
+### 💳 &nbsp;[wallet](https://github.com/mohanadhilles/wallet)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+RESTful **wallet service** — OTP passwordless auth, per-user wallets, and peer-to-peer transactions on a clean layered architecture with SQL migrations.
+
+</td>
+<td valign="top" width="50%">
+
+### 📰 &nbsp;[feed](https://github.com/mohanadhilles/feed)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+RESTful **social feed API** — passwordless OTP email authentication, posts, and comments.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🏦 &nbsp;[fintech-api](https://github.com/mohanadhilles/fintech-api)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Fintech wallet API** for secure money transfers, with Redis caching and containerized deployment.
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ &nbsp;[Config-Switcher](https://github.com/mohanadhilles/Config-Switcher)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%20Package-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+A **Laravel package** for config & env management with snapshot/rollback — "Git for your configuration" — with admin panel, Artisan commands, and IP/auth security.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔐 &nbsp;[hMac-services](https://github.com/mohanadhilles/hMac-services)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+RESTful APIs with **HMAC-based authentication & authorization** for secure data exchange.
+
+</td>
+<td valign="top" width="50%">
+
+### 🐳 &nbsp;[docker](https://github.com/mohanadhilles/docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Containerized full-stack app** (Vue.js + Laravel) ready for multi-environment deployment.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## &nbsp;◢ &nbsp;Experience & Education
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**💼 &nbsp;Experience**
+
+`Senior Software Engineer` — **WalaPlus**
+Scalable, secure systems across loyalty, e-wallet, voucher & B2B API domains; multi-tenant platforms and large-scale integrations.
+
+`Research & Teaching Assistant` — **UCAS, Gaza**
+Faculty of Information Technology.
+
+`Software Engineer` — **earlier roles**
+Web & mobile-backed product delivery.
+
+</td>
+<td valign="top" width="50%">
+
+**🎓 &nbsp;Education & Credentials**
+
+`M.Sc.` — Computer & Information Systems Security / Information Assurance
+*Al-Azhar University, Gaza*
+
+`B.Sc.` — Computer & Information Systems
+*Al-Quds Open University*
+
+`Cert.` — Node.js Developer *(LinkedIn)*
+
+`Research` — Published in intelligent tutoring & expert systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## &nbsp;◢ &nbsp;Let's Build Something
+
+Open to **backend, fintech, and API-integration** work — and to a good conversation about system design.
+
+<a href="https://www.linkedin.com/in/mohanadhilles/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muhilles@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
