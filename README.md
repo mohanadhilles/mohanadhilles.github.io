@@ -4,7 +4,7 @@
 
 <!-- ====================== HEADER ====================== -->
 
-# ✦ &nbsp; Mohanad Hilles &nbsp; ✦
+#  &nbsp; Mohanad Hilles &nbsp; 
 
 **`Senior Software Engineer`** &nbsp;•&nbsp; **`Backend & API Integration`** &nbsp;•&nbsp; **`System Design`**
 
