@@ -5,7 +5,8 @@ body {
     font-size: calc(10px + 0.33vw) !important;
     -webkit-font-smoothing: antialiased !important;
     padding: 5vh 10vw !important;
-    color: #121314 !important;
+    color: #171718 !important;
+    background-color: #ffffff !important;
   }
   h1 {
     font-size: 4.5em !important;
